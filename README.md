@@ -1,5 +1,11 @@
 # workshop_jardineria
 
+Integrantes grupo 4:
+
+Juan Pablo Quintero
+Jerson Gomez
+Felipe Alvarez
+
 diagrama entidad relación MySQL
 [![diagrama-Workshop.png](https://i.postimg.cc/R0XY9mYV/diagrama-Workshop.png)](https://postimg.cc/zLH7Ss59)
 
